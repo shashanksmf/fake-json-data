@@ -1,6 +1,5 @@
 {
-    "data": [
-      {
+    "data":  {
         "AKSHAY1": {
           "btcBalance": "2.0000000",
           "usdBalance": "1.0000000",
@@ -14,5 +13,4 @@
           "walletUrl": "https://akshay2walleturl.com"
         }
       }
-    ]
 }
