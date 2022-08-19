@@ -1,0 +1,18 @@
+{
+    data: [
+      {
+        "AKSHAY1": {
+          "btcBalance": "2.0000000",
+          "usdBalance": "1.0000000",
+          "walletAddress": "qweqweqweqweqwewq",
+          "walletUrl": "https://akshay1walleturl.com"
+        },
+        "AKSHAY2": {
+          "btcBalance": "3.0000000",
+          "usdBalance": "4.0000000",
+          "walletAddress": "akshay2walletaddress",
+          "walletUrl": "https://akshay2walleturl.com"
+        }
+      }
+    ]
+}
