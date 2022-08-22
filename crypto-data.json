@@ -1,71 +1,53 @@
 {
     "data":  {
         "179597872": {
-          "btcBalance": "112.000000",
+          "btcBalance": "3.90012",
             "name":"shashank",
-          "usdBalance": "107868767.000",
+          "usdBalance": "83219.55",
           "walletAddress": "37MgJivX1LkS7Ta3CMWGjVwh1J7PS46M1c",
           "walletUrl": "akshaybtc99.bitcoinwallet.com"
         },
         "167080767": {
-          "btcBalance": "2.0000",
+          "btcBalance": "5.43999",
             "name": "sujeet",
-          "usdBalance": "20.0000",
+          "usdBalance": "76602.09",
           "walletAddress": "3MYSBgFDLNzhEUusYkYkRvf9Q4n98XL19y",
           "walletUrl": "shanecryptokingmod.bitcoinwallet.com"
         },
         "123559420": {
-          "btcBalance": "3.0000000",
+          "btcBalance": "3.58999",
           "usdBalance": "30.000000",
             "name": "akshay",
           "walletAddress": "3Diu1qWZqPD8qVZv1zoEJuArc72672UCDs",
           "walletUrl": "shankyship90.bitcoinwallet.com"
         },
         "89638576": {
-          "btcBalance": "4.00000",
-          "usdBalance": "40.000000",
+          "btcBalance": "5.01635",
+          "usdBalance": "107037.32",
             "name":"ankit",
           "walletAddress": "32oY5cyqsxvSKeN2Nveo5sf6xFASTPN6rn",
           "walletUrl": "garysolbtctaker.bitcoinwallet.com"
         },
         "220496978": {
-          "btcBalance": "5.000000",
-          "usdBalance": "50.0000",
+          "btcBalance": "3.00124",
+          "usdBalance": "64039.52",
             "name": "anuj",
           "walletAddress": "3CSKkbd9AaeGQ7S7u2EjoEaGKmftJVe5rA",
           "walletUrl": "coinmastersujeet.bitcoinwallet.com"
         },
         "228423825": {
-          "btcBalance": "6.000000",
+          "btcBalance": "3.28103",
            "name": "gaurav",
-          "usdBalance": "60.000000",
+          "usdBalance": "70028.69",
           "walletAddress": "3GVXwb31ZQr2Z8Px8x5eqF3pqS5mdv6tur",
           "walletUrl": "ankitcryptofund.bitcoinwallet.com"
         },
         "374072630": {
-          "btcBalance": "7.0000000",
-          "usdBalance": "70.000000",
+          "btcBalance": "4.36872",
+          "usdBalance": "93230.8",
            "name": "kishan",
           "walletAddress": "352bHRbVSpjg2d7nMBVyouMwoGqshLtm7M",
           "walletUrl": "emoney91kishan.bitcoinwallet.com"
-        },
-        "digitalswapkitten": {
-          "btcBalance": "8.0000000",
-          "usdBalance": "80.000000",
-          "walletAddress": "35Af3accRDw2uP2KWF9zFCffzW1bfEihQy",
-          "walletUrl": "digitalswapkitten.bitcoinwallet.com"
-        },
-        "gemscollector66": {
-          "btcBalance": "9.0000000",
-          "usdBalance": "90.000000",
-          "walletAddress": "33VLZyiLXbSHdcZrSzXSfK6S167EJRHvcS",
-          "walletUrl": "gemscollector66.bitcoinwallet.com"
-        },
-        "anujbtcplay2win": {
-          "btcBalance": "10.000000",
-          "usdBalance": "100.00000",
-          "walletAddress": "3LjaGU5v35NxxtMoL21pjzsTLe1cVUoVfb",
-          "walletUrl": "anujbtcplay2win.bitcoinwallet.com"
         }
       }
 }
