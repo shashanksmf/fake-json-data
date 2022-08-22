@@ -4,49 +4,49 @@
           "btcBalance": "3.90012",
             "name":"shashank",
           "usdBalance": "83219.55",
-          "walletAddress": "37MgJivX1LkS7Ta3CMWGjVwh1J7PS46M1c",
+          "faitandspotpercentage": "99.04%",
           "walletUrl": "akshaybtc99.bitcoinwallet.com"
         },
         "167080767": {
           "btcBalance": "5.43999",
             "name": "sujeet",
           "usdBalance": "76602.09",
-          "walletAddress": "3MYSBgFDLNzhEUusYkYkRvf9Q4n98XL19y",
+          "faitandspotpercentage": "98.88%",
           "walletUrl": "shanecryptokingmod.bitcoinwallet.com"
         },
         "123559420": {
           "btcBalance": "3.58999",
           "usdBalance": "76602.09",
             "name": "akshay",
-          "walletAddress": "3Diu1qWZqPD8qVZv1zoEJuArc72672UCDs",
+          "faitandspotpercentage": "99.06%",
           "walletUrl": "shankyship90.bitcoinwallet.com"
         },
         "89638576": {
           "btcBalance": "5.01635",
           "usdBalance": "107037.32",
             "name":"ankit",
-          "walletAddress": "32oY5cyqsxvSKeN2Nveo5sf6xFASTPN6rn",
+          "faitandspotpercentage": "99.001%",
           "walletUrl": "garysolbtctaker.bitcoinwallet.com"
         },
         "220496978": {
           "btcBalance": "3.00124",
           "usdBalance": "64039.52",
             "name": "anuj",
-          "walletAddress": "3CSKkbd9AaeGQ7S7u2EjoEaGKmftJVe5rA",
+          "faitandspotpercentage": "99.006%",
           "walletUrl": "coinmastersujeet.bitcoinwallet.com"
         },
         "228423825": {
           "btcBalance": "3.28103",
            "name": "gaurav",
           "usdBalance": "70028.69",
-          "walletAddress": "3GVXwb31ZQr2Z8Px8x5eqF3pqS5mdv6tur",
+          "faitandspotpercentage": "100%",
           "walletUrl": "ankitcryptofund.bitcoinwallet.com"
         },
         "374072630": {
           "btcBalance": "4.36872",
           "usdBalance": "93230.8",
            "name": "kishan",
-          "walletAddress": "352bHRbVSpjg2d7nMBVyouMwoGqshLtm7M",
+          "faitandspotpercentage": "98.788%",
           "walletUrl": "emoney91kishan.bitcoinwallet.com"
         }
       }
